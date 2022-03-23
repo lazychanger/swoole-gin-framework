@@ -1,0 +1,22 @@
+{
+  "name": "lazychanger/swoole-gin-framework",
+  "type": "project",
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "lazychanger",
+      "email": "chengliang.duan@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=8.0",
+    "lazychanger/swoole-gin": "dev-main"
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://packagist.org"
+    }
+  }
+}
