@@ -8,7 +8,6 @@ use SwooleGin\Gin\Gin;
 use SwooleGin\Gin\Middleware\FaviconMiddleware;
 use SwooleGin\Options;
 use SwooleGin\Server;
-use SwooleGin\Stream\StringStream;
 use SwooleGin\Utils\HTTPStatus;
 
 ini_set('display_errors', 'on');
