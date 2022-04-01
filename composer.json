@@ -11,7 +11,7 @@
   ],
   "require": {
     "php": ">=8.0",
-    "lazychanger/swoole-gin": "dev-main"
+    "fqapps/swoole-gin": "dev-main"
   },
   "repositories": {
     "packagist": {
